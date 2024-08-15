@@ -1,5 +1,6 @@
 Módulo 1: Introdução ao Python com Aplicações de Mercado Financeiro
 
+
   1)Introdução ao Python: Principais funções da linguagem, tipos e tratamentos de dados;
   
   2) Introdução às Bibliotecas: Foram abordadas as bibliotecas Numpy e Pandas, com algumas aplicações como leitura de bancos de dados e plotagem de gráficos;
