@@ -9,9 +9,8 @@ Os tópicos abordados até agora foram:
     3) Manipulando Banco de Dados: Realização da leitura e transformação de bancos de dados de ações, com algumas manipulações introdutórias relacionadas a datas e a OHLC (Open, High, Low e Close), além de plotagem gráfica destes dados. Foram abordadas novas bibliotecas, como YFinance e SweetVIZ;
     4) Utilizando pandas-datareader e YFinance para obter dados de vários ativos e a realizar a normalização desses dados;
     5) Obtendo indicadores fundamentalistas: Explora formas de obter diversos dados fundamentalistas como dados contábeis, fluxos de caixa, pagamentos de dividendos (datas, valores, etc), entre muitas outras informações que podem ser úteis.
- 
-#####################################################################################################################################################################################################################
 
+ 
 - Módulo 2: Conceitos em Finanças e Macroeconomia
-    1)
+      
 
