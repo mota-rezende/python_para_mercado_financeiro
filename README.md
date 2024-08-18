@@ -21,4 +21,5 @@ Os tópicos abordados até agora foram:
         - Cruzamento entre SELIC e IPCA.
 
       
+- Módulo 3: Análise Técnica com Python
 
